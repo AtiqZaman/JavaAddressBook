@@ -60,6 +60,8 @@ public class AddressBook {
 			}
 		}
 	}
+	
+	//uncomment this code to fulfill the persistence in code 
 
 //	// Method to Save data for persistence through filing
 //	public void loadPersons() {
